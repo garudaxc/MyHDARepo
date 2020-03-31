@@ -8,4 +8,4 @@
 可以在max中通过houdini插件进行编辑和预览效果
 ![11](./used_in_max.png)
 
-![demo](./demo.mp4)
+![demo](./demo.gif)
