@@ -1,0 +1,6 @@
+
+*.max
+*.hip
+
+test_resource/
+resource/
