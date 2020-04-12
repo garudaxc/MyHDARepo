@@ -1,0 +1,25 @@
+{
+    "vertex_animation_textures2": [
+        {
+            "_doubleTex": "0", 
+            "_height": ".1", 
+            "_normData": "1", 
+            "_numOfFrames": "99", 
+            "_packNorm": "1", 
+            "_packPscale": "1", 
+            "_padPowTwo": "1", 
+            "_paddedSizeX": "1024", 
+            "_paddedSizeY": "1024", 
+            "_pivMax": "0", 
+            "_pivMin": "0", 
+            "_posMax": "1.4106031", 
+            "_posMin": "-1.1378612", 
+            "_scaleMax": "0", 
+            "_scaleMin": "0", 
+            "_speed": "0.151515151515", 
+            "_textureSizeX": "1024", 
+            "_textureSizeY": "792", 
+            "_width": ".1"
+        }
+    ]
+}
